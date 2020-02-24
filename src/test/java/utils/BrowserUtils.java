@@ -2,7 +2,7 @@ package utils;
 
 public class BrowserUtils {
 
-// Ne bu kardesim 
+    //New command!!!
     //It will be used to pause our test execution
     //just provide number of seconds as a parameter
     public static void wait(int seconds){
